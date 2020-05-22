@@ -1,4 +1,4 @@
-# Wardaya College Internship Website by Theo Azriel
+# Wardaya College Website by Theo Azriel
 
 Tested running with XAMPP server.
 
